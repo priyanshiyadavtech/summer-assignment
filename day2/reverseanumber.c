@@ -1,5 +1,6 @@
 
 #include <stdio.h>
+// day2 assignment
 int main() {
     int n, reverse = 0,remainder;
     printf("Enter the number: ");
