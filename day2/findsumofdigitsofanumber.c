@@ -1,5 +1,6 @@
 
 #include <stdio.h>
+// day2 assignment
 int main() {
     int n, sum = 0;
     printf("Enter the number: ");
