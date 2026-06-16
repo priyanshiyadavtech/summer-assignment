@@ -1,5 +1,6 @@
 
 #include <stdio.h>
+// day2 assignment
 int main() {
     int num, digit, product = 1;
     printf("Enter the number: ");
