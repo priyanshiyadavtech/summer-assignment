@@ -1,4 +1,4 @@
-
+#include <stdio.h>
 int findMaximum(int a, int b) {
     if (a > b) {
         return a;
